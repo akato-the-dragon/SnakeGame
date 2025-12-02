@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="">
+        <file>../../images/icons/check_box_frame.svg</file>
+        <file>../../images/icons/check.svg</file>
+        <file>../../images/icons/close_small.svg</file>
+        <file>../../images/icons/close.svg</file>
+        <file>../../images/icons/menu.svg</file>
+        <file>../../images/icons/minimize.svg</file>
+        <file>../../images/icons/icon.png</file>
+    </qresource>
+</RCC>

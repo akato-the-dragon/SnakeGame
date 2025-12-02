@@ -1,0 +1,31 @@
+#bottom_widget {
+    background-color: rgba(0, 0, 0, 128);
+    border-top: 1px solid rgba(0, 0, 0, 64)
+}
+
+#version_label {
+    font-family: "Roboto";
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
+}
+
+#update_label {
+    font-family: "Roboto";
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
+}
+
+QPushButton {
+    border: none;
+}
+
+#update_button {
+    font-family: "Roboto";
+    font-size: 12pt;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+#update_button:hover {
+    color: rgb(200, 200, 200);
+}

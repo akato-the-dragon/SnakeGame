@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="">
+        <file>../../fonts/Roboto/Roboto-Italic-VariableFont_wdth,wght.ttf</file>
+        <file>../../fonts/Roboto/Roboto-VariableFont_wdth,wght.ttf</file>
+        <file>../../fonts/Roboto_Mono/RobotoMono-Italic-VariableFont_wght.ttf</file>
+        <file>../../fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf</file>
+    </qresource>
+</RCC>

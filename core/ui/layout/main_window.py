@@ -3,7 +3,7 @@
 ################################################################################
 ## Form generated from reading UI file 'main_window.ui'
 ##
-## Created by: Qt User Interface Compiler version 6.9.1
+## Created by: Qt User Interface Compiler version 6.10.1
 ##
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
@@ -126,7 +126,7 @@ class Ui_main_window(object):
 
     def retranslateUi(self, main_window):
         main_window.setWindowTitle(QCoreApplication.translate("main_window", u"MainWindow", None))
-        self.version_label.setText(QCoreApplication.translate("main_window", u"<version>", None))
+        self.version_label.setText(QCoreApplication.translate("main_window", u"\u0412\u0435\u0440:", None))
         self.update_label.setText(QCoreApplication.translate("main_window", u"\u0414\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435!", None))
         self.update_button.setText(QCoreApplication.translate("main_window", u"\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", None))
         self.dont_show_again_check_box.setText(QCoreApplication.translate("main_window", u"\u041d\u0435 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c \u0441\u043d\u043e\u0432\u0430", None))

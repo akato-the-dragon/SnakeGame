@@ -1,0 +1,18 @@
+#shadow_widget {
+    background-color: rgba(0, 0, 0, 128);
+    border-bottom: 1px solid rgba(0, 0, 0, 64)
+}
+
+#current_score_label {
+    font-family: "Roboto Medium";
+    font-size: 16pt;
+}
+
+#high_score_label {
+    font-family: "Roboto";
+    font-size: 10pt;
+}
+
+QPushButton {
+    border: none;
+}
